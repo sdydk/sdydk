@@ -1,6 +1,6 @@
 ### About me 👋 My name is DeKun Yuan
 <p font='24px'>
-  This is my github weibite, My research interests lie in the deep learning, computer vision (object detection, segmentation and classification), microscopy image processing and multimodal.
+  This is my github website, My research interests lie in the deep learning, computer vision (object detection, segmentation and classification), microscopy image processing and multimodal.
 <p>
 <div align="center"> <img src="https://visitor-badge.glitch.me/badge?page_id=sun0225SUN" /> </div>
 <p>News<p>
