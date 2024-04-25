@@ -1,6 +1,6 @@
 ### About me 👋 My name is DeKun Yuan
 <p>
-  this is my github
+  this is my github weibite, My research interests lie in the deep learning, computer vision (object detection, segmentation and classification), microscopy image processing and multimodal
 <p>
 <table>
   <tr>
