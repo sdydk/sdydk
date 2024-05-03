@@ -1,5 +1,5 @@
 ###  👋 My name is DeKun Yuan, you can call me Mark
-<p font-size='36px'>
+<p>
     &nbsp&nbsp This is my github website, My research interests lie in the deep learning, computer vision (object detection, segmentation and classification), microscopy image processing and multimodal.
 <p>
 
@@ -11,8 +11,8 @@
     
 ### Papers✨
   <div>
-    <p>April 2023 Improving the Estimation of Gross Primary Productivity across Global Biomes by Modeling Light Use Efficiency through Machine Learning</p>
-    <p>September 2022 Improving the Gross Primary Productivity Estimate by Simulating the Maximum Carboxylation Rate of the Crop Using Machine Learning Algorithms</p>
+    <p>April 2023-Improving the Estimation of Gross Primary Productivity across Global Biomes by Modeling Light Use Efficiency through Machine Learning</p>
+    <p>September 2022-Improving the Gross Primary Productivity Estimate by Simulating the Maximum Carboxylation Rate of the Crop Using Machine Learning Algorithms</p>
   </div>
 
 ### Code✨
