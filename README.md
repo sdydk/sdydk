@@ -3,7 +3,7 @@
   <p font='36px'>
     &nbsp&nbsp This is my github website, My research interests lie in the deep learning, computer vision (object detection, segmentation and classification), microscopy image processing and multimodal.
  <p>
-   <div align="center">News✨</div>
+   <div align="center">News🔥</div>
   <div align="center">Papers✨</div>
   <div align="center">Code✨</div>
 </div>
