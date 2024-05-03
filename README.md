@@ -10,15 +10,14 @@
    </div>
   <div>
     <p align="center">Papers✨</p>
+    <p>1. </p>
   </div>
   <div >
     <p align="center">Code✨</p>
+    <p>1. </p>
   </div>
 </div>
 
-<p>News✨<p>
-<p>Papers<p>
-<p>Code<p>
 
 ### Reading book
 <!--
