@@ -5,8 +5,8 @@
  <p>
    <div >
      <p align="center">News🔥</p>
-     <p>1. 202309 </p>
-     <p>2. </p>
+     <p>202309 Admitted to China University of Petroleum (East China) </p>
+     <p>202212 </p>
    </div>
   <div>
     <p align="center">Papers✨</p>
