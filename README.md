@@ -1,17 +1,12 @@
-###  👋 My name is DeKun Yuan, you can call me Mark.
+###  👋 My name is DeKun Yuan, you can call me Mark
 <p font-size='36px'>
     &nbsp&nbsp This is my github website, My research interests lie in the deep learning, computer vision (object detection, segmentation and classification), microscopy image processing and multimodal.
 <p>
 
-  ###  News 🔥.
-<div background-color='#666666'> 
-  
-   <div >
-###  News🔥
-     <p align="center"></p>
+  ###  News 🔥
      <p>202309 Admitted to China University of Petroleum (East China) </p>
      <p>202212 </p>
-   </div>
+
   <div>
     <p align="center">Papers✨</p>
     <p>2023 Improving the Estimation of Gross Primary Productivity across Global Biomes by Modeling Light Use Efficiency through Machine Learning</p>
