@@ -8,8 +8,12 @@
      <p>1. hello</p>
      <p>2.</p>
    </div>
-  <div align="center">Papers✨</div>
-  <div align="center">Code✨</div>
+  <div>
+    <p align="center">Papers✨</p>
+  </div>
+  <div >
+    <p align="center">Code✨</p>
+  </div>
 </div>
 
 <p>News✨<p>
