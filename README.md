@@ -10,7 +10,7 @@
      <p>November 2018: Obtained the third prize of the 10th National Mathematics Competition for College Students</p>
   </div>
     
-### Papers🎉
+### Papers 🎉
   <div>
     <p>April 2023: Kong, D.; <strong>Yuan, D.</strong>; Li, H.; Zhang, J.; Yang, S.; Li, Y.; Bai, Y.; Zhang, S. Improving the Estimation of Gross Primary Productivity across Global Biomes by Modeling Light Use Efficiency through Machine Learning. Remote Sens. 2023, 15, 2086. https://doi.org/10.3390/rs15082086</p>
     <p>September 2022: <strong>D. Yuan</strong>, S. Zhang, H. Li, J. Zhang, S. Yang and Y. Bai, "Improving the Gross Primary Productivity Estimate by Simulating the Maximum Carboxylation Rate of the Crop Using Machine Learning Algorithms," in IEEE Transactions on Geoscience and Remote Sensing, vol. 60, pp. 1-15, 2022, Art no. 4413115, doi: 10.1109/TGRS.2022.3200988. </p>
@@ -23,7 +23,7 @@
   
 
 
-### Other 📝
+### Others 📝
 <p>&nbsp&nbsp I usually like to read some book about Chinese history, running, and gym. So I will share some interesting thing about me in this place.</p>
 
 <!--
