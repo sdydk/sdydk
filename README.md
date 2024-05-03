@@ -1,10 +1,14 @@
 ###  👋 My name is DeKun Yuan, you can call me Mark.
-<div background-color='#666666'> 
-  <p font-size='36px'>
+<p font-size='36px'>
     &nbsp&nbsp This is my github website, My research interests lie in the deep learning, computer vision (object detection, segmentation and classification), microscopy image processing and multimodal.
- <p>
+<p>
+
+  ###  News 🔥.
+<div background-color='#666666'> 
+  
    <div >
-     <p align="center">News🔥</p>
+###  News🔥
+     <p align="center"></p>
      <p>202309 Admitted to China University of Petroleum (East China) </p>
      <p>202212 </p>
    </div>
