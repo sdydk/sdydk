@@ -7,6 +7,7 @@
   <div>
      <p>September 2023: Admitted to China University of Petroleum (East China) </p>
      <p>December 2022: Obtained China National Scholarship (master)</p>
+     <p>November 2018: Obtained the third prize of the 10th National Mathematics Competition for College Students</p>
   </div>
     
 ### Papers🎉
@@ -17,12 +18,13 @@
 
 ### Code🤖
   <div>
-    <p>1. </p>
+    <p>************</p>
   </div>
   
 
 
-### Reading book
+### Other 📝
+
 <!--
 **sdydk/sdydk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
