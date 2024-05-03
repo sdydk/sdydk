@@ -24,7 +24,7 @@
 
 
 ### Other 📝
-
+<p>&nbsp&nbsp i like reading, running, and gym. So i will share some interesting event about me in this place.</p>
 <!--
 **sdydk/sdydk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
