@@ -3,32 +3,13 @@
   <p font='36px'>
   This is my github website, My research interests lie in the deep learning, computer vision (object detection, segmentation and classification), microscopy image processing and multimodal.
  <p>
-   <div align="center">News</div>
+   <div align="center">News✨</div>
 </div>
 
-<p>News<p>
+<p>News✨<p>
 <p>Papers<p>
 <p>Code<p>
-<table>
-  <tr>
-    <td>
-      1
-    <td>
-  <tr>
-  <tr>
-    <td>
-      2
-    <td>
-  <tr>
-  <tr>
-    <td>
-      3
-    <td>
-    <td>
-      self
-    <td>
-  <tr>
-  <table>
+
 
     ### Reading book
 <!--
