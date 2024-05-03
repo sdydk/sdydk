@@ -4,6 +4,7 @@
 <p>
 
   ###  News 🔥
+  
      <p>202309 Admitted to China University of Petroleum (East China) </p>
      <p>202212 </p>
 
@@ -12,11 +13,12 @@
     <p>2023 Improving the Estimation of Gross Primary Productivity across Global Biomes by Modeling Light Use Efficiency through Machine Learning</p>
     <p>2022 Improving the Gross Primary Productivity Estimate by Simulating the Maximum Carboxylation Rate of the Crop Using Machine Learning Algorithms</p>
   </div>
+  
   <div >
     <p align="center">Code✨</p>
     <p>1. </p>
   </div>
-</div>
+  
 
 
 ### Reading book
