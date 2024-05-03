@@ -4,9 +4,12 @@
 <p>
 
   ###  News 🔥
-  
+
+  <div>
      <p>202309 Admitted to China University of Petroleum (East China) </p>
      <p>202212 </p>
+  </div>
+    
 
   <div>
     <p align="center">Papers✨</p>
