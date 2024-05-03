@@ -1,8 +1,9 @@
 ### About me 👋 My name is DeKun Yuan
-<div align="center"> 
+<div > 
   <p font='24px'>
   This is my github website, My research interests lie in the deep learning, computer vision (object detection, segmentation and classification), microscopy image processing and multimodal.
  <p>
+   <div align="center">News</div>
 </div>
 
 <p>News<p>
