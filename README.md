@@ -1,4 +1,4 @@
-###  👋 My name is DeKun Yuan, you can call me Mark
+###  Hi 👋 I'm DeKun Yuan, a passionate CV Researcher, you can call me Mark.
 <p>
     &nbsp&nbsp This is my github website, My research interests lie in the deep learning, computer vision (object detection, segmentation and classification), microscopy image processing and multimodal.
 <p>
